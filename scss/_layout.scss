@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  color: $text-color;
+  background: $secondary-color;
+  margin: 0;
+}
+
+.container {
+  max-width: $container-width;
+  margin: 0 auto;
+  padding: 1rem;
+}

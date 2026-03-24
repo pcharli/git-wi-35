@@ -1,0 +1,25 @@
+.site-header {
+  background: $primary-color;
+  color: white;
+
+  h1 {
+    margin: 0;
+    padding: 1rem 0;
+  }
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 0;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

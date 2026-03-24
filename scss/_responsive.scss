@@ -1,0 +1,24 @@
+@media (max-width: $breakpoint-sm) {
+  .container {
+    padding: 0.5rem;
+  }
+
+  .site-header nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  h1, h2 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: $breakpoint-md) {
+  .container {
+    padding: 1rem;
+  }
+
+  .site-footer {
+    font-size: 0.9rem;
+  }
+}
