@@ -32,14 +32,14 @@ body {
   }
 }
 .site-footer {
-  background: rgb(234, 0, 195.52);
+  background: rgb(0, 8.32, 234);
   color: white;
   text-align: center;
   padding: 1rem 0;
 }
 
 .site-header {
-  background: #ff1eda;
+  background: #1e26ff;
   color: white;
 }
 .site-header h1 {
